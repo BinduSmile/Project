@@ -7,5 +7,8 @@ void add(int a, int b)
 int c= a+b;
 int d= a-b;
 }
-
+void Mul(int a1,int b1)
+{
+int c1=a1*b1;
+}
 }
